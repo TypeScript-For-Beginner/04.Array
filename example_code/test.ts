@@ -17,7 +17,7 @@
 // let arr: Array<() => string> = [() => "라이캣", () => "김멋사"];
 // console.log(arr[0]());
 
-let arr2: Array<string> = new Array<string>();
-arr2.push("one");
-arr2.push("two");
-console.log(arr2);
+// let arr2: Array<string> = new Array<string>();
+// arr2.push("one");
+// arr2.push("two");
+// console.log(arr2);
